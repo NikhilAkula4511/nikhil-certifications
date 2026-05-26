@@ -1,0 +1,3 @@
+# Optional: ignore large duplicates locally
+.DS_Store
+*.tmp
