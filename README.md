@@ -14,7 +14,7 @@ Repository licensed under the **[MIT License](LICENSE)**.
 |---|---------------|--------|--------|--------|--------|
 | 1 | Machine Learning with Python — Level 1 | IBM | May 2024 | [ibm-ml-python-level-1](certifications/ibm-ml-python-level-1/) | [Credly badge](https://www.credly.com/badges/21aba210-9a26-413a-abe9-426b925703a4) |
 | 2 | Generative AI Course | Udemy | — | [generative-ai](certifications/generative-ai/) | Add PDF |
-| 3 | AWS | AWS Skill Builder | — | [aws-bedrock](certifications/aws-bedrock/) | Add PDF |
+| 3 | AWS | AWS Skill Builder | — | [aws-bedrock](certifications/aws/) | Add PDF |
 | 4 | Data Science Certificate | Innomatics | — | [data-science](certifications/data-science/) | Add PDF |
 | 5 | Machine Learning with Python  | Verzeo | May 2022 | [verzeo-ml-python](certifications/verzeo-ml-python/) | Add PDF |
 | 6 | Python for Beginners | Simplilearn | — | [simplilearn-python](certifications/simplilearn-python/) | Add PDF |
